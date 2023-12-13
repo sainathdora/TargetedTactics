@@ -1,6 +1,6 @@
 <nav class="flex justify-around text-white bg-black items-center">
     <h2 class="text-2xl font-thin mb-2">
-        TargetedTactics
+        Customer Segmentation
     </h2>
     <ul class="flex items-center justify-evenly">
         <li>Home</li>
