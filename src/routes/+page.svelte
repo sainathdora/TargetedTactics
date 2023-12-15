@@ -296,29 +296,7 @@
 
 <!-- Case-3 Where we have Annual Income, SPending socre, Age -->
 
-
-<div
-	class="bg-gray-70 p-4 rounded-lg shadow-md mx-auto mt-4 transition-transform hover:shadow-lg hover:bg-gray-100"
-	style="width: 90%;"
->
-<h2 class="text-3xl text-center text-zinc-600">
-	Case-3:- Segmentation Using Annual Income And Spending Score And Age
-</h2>
-<aside class="grid grid-cols-4 gap-2">
-	<article class="col-span-4">
-		<p class="mb-3 text-lg text-gray-800 md:text-xl">
-			Here we have <span class="font-bold">Annual Income</span> and
-			<span class="font-bold">Spending Score</span> & <span class="font-bold">Age</span>
-			as Input Features since we don't have our label <span class="font-bold">Y</span> we have to
-			look at what common patterns does Features of X emerge to be.
-			<br />
-			First, Try to find Optimal Number of Clusters via: Silhouette Score
-		</p>
-	</article>
-	<article class="col-span-4 bg-purple-400 p-2">
-		<img src={Silhoutte_Age_Annual_Spending} class=" mx-auto w-2/3 "/>
-	</article>
-
+<aside>
 	<article class="col-span-4">
 		<h1 class="text-3xl text-center underline text-blue-600">
 			<a href="https://wonderful-sopapillas-886153.netlify.app/">Please Visit this Link for better 3D illustration</a>
@@ -327,7 +305,7 @@
 
 
 </aside>
-</div>
+
 
 
 
